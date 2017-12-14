@@ -1,2 +1,5 @@
 hello re.txtq
+<<<<<<< HEAD
 hahhaha  confict
+iv vsagsdg
+resolved!!!hahahah
